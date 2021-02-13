@@ -1,0 +1,61 @@
+2021-02-06 16:48:45 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.21.Final
+2021-02-06 16:48:45 [main] INFO  com.ruoyi.RuoYiApplication - Starting RuoYiApplication on 小米AAA with PID 12696 (E:\gitee_project\RY-Vue-Plus\ruoyi-admin\target\classes started by 胡 in E:\gitee_project\RY-Vue-Plus)
+2021-02-06 16:48:45 [main] INFO  com.ruoyi.RuoYiApplication - The following profiles are active: dev
+2021-02-06 16:48:47 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2021-02-06 16:48:50 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-02-06 16:48:50 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2021-02-06 16:48:50 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2021-02-06 16:48:52 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: addUsingPOST_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: listUsingGET_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_2
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: addUsingPOST_2
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: editUsingPUT_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: exportUsingGET_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: getInfoUsingGET_1
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: listUsingGET_2
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_3
+2021-02-06 16:48:53 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: deleteUsingDELETE_1
+2021-02-06 16:48:53 [main] INFO  io.undertow - starting server: Undertow - 2.0.33.Final
+2021-02-06 16:48:53 [main] INFO  org.xnio - XNIO version 3.3.8.Final
+2021-02-06 16:48:53 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2021-02-06 16:48:53 [main] INFO  io.undertow - stopping server: Undertow - 2.0.33.Final
+2021-02-06 16:48:53 [main] INFO  sys-user - ====关闭后台任务任务线程池====
+2021-02-06 16:48:53 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2021-02-06 16:48:53 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2021-02-06 16:51:09 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.21.Final
+2021-02-06 16:51:09 [main] INFO  com.ruoyi.RuoYiApplication - Starting RuoYiApplication on 小米AAA with PID 24956 (E:\gitee_project\RY-Vue-Plus\ruoyi-admin\target\classes started by 胡 in E:\gitee_project\RY-Vue-Plus)
+2021-02-06 16:51:09 [main] INFO  com.ruoyi.RuoYiApplication - No active profile set, falling back to default profiles: default
+2021-02-06 16:51:11 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2021-02-06 16:56:24 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.0.21.Final
+2021-02-06 16:56:24 [main] INFO  com.ruoyi.RuoYiApplication - Starting RuoYiApplication on 小米AAA with PID 24824 (E:\gitee_project\RY-Vue-Plus\ruoyi-admin\target\classes started by 胡 in E:\gitee_project\RY-Vue-Plus)
+2021-02-06 16:56:24 [main] INFO  com.ruoyi.RuoYiApplication - The following profiles are active: dev
+2021-02-06 16:56:26 [main] INFO  io.undertow.servlet - Initializing Spring embedded WebApplicationContext
+2021-02-06 16:56:29 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2021-02-06 16:56:29 [main] INFO  io.lettuce.core.EpollProvider - Starting without optional epoll library
+2021-02-06 16:56:29 [main] INFO  io.lettuce.core.KqueueProvider - Starting without optional kqueue library
+2021-02-06 16:56:31 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: addUsingPOST_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: listUsingGET_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_2
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: addUsingPOST_2
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: editUsingPUT_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: exportUsingGET_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: getInfoUsingGET_1
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: listUsingGET_2
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: removeUsingDELETE_3
+2021-02-06 16:56:32 [main] INFO  s.d.s.w.r.o.CachingOperationNameGenerator - Generating unique operation named: deleteUsingDELETE_1
+2021-02-06 16:56:32 [main] INFO  io.undertow - starting server: Undertow - 2.0.33.Final
+2021-02-06 16:56:32 [main] INFO  org.xnio - XNIO version 3.3.8.Final
+2021-02-06 16:56:32 [main] INFO  org.xnio.nio - XNIO NIO Implementation Version 3.3.8.Final
+2021-02-06 16:56:32 [main] INFO  com.ruoyi.RuoYiApplication - Started RuoYiApplication in 8.811 seconds (JVM running for 10.196)
+2021-02-06 16:59:09 [XNIO-1 task-1] INFO  io.undertow.servlet - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-06 16:59:14 [schedule-pool-1] INFO  sys-user - [127.0.0.1]内网IP[admin][Success][登录成功]
