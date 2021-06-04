@@ -1,37 +1,20 @@
-# 外卖admin
+# 点餐后台管理系统
 
 #### 介绍
 毕设：点餐后台管理系统
 
 #### 软件架构
-SpringBoot+SpringSecurity+Redis+MySQL+Mybatis Plus+SpringMVC+Swagger
-
+SpringBoot+SpringSecurity+Redis+MySQL+Mybatis-Plus+SpringMVC+Swagger
 
 #### 安装教程
+- git clone https://gitee.com/bailefolen/takeaway-admin.git
+- 导入数据库文件 takeaway.sql【创建数据库名takeaway，执行SQL文件】
+- 然后修改admin模块下resources目录下的application-dev.yml 数据库连接配置
+- 启动mysql，启动admin模块下的application
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 感谢
+- [RuoYi-Vue-Plus](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus)
+- [RuoYi-Vue](https://gitee.com/y_project/RuoYi)
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
